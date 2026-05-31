@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentcalidate",
+        "uuid": 5552862,
+        "checksum": "5pn9pe"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
